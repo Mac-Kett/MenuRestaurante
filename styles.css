@@ -1,0 +1,42 @@
+.titulo{
+	font-family: 'Black Han Sans', sans-serif;
+	font-size: 32px;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+body {
+	background-image: url(img/madera.jpg);
+}
+.container{
+	display: flex;
+	margin-right: 20px;
+}
+.cajaDeAfuera {
+	box-shadow: 10px 10px 5px black;
+}
+.caja {
+	margin: 20px;
+}
+#caja1 {
+    background-color: white;
+    border-style: double;
+    border-color: yellowgreen;
+	border-width: thick;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 15px;
+}
+#caja2 {
+	background-color: white;
+	border-style: double;
+    border-color: red;
+	border-width: thick;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 15px;
+}
+#tabla1 {
+	padding: 25px;
+}
+#tabla2 {
+	padding: 25px;
+}
